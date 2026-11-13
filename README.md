@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Disha Jain 
 
-<!--
-**Dishajain933611/Dishajain933611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ BCA Student | Artificial Intelligence & Machine Learning
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Currently learning Artificial Intelligence, Machine Learning, and NLP
+-  Interested in building AI-powered projects and solving real-world problems
+- Exploring opportunities to grow as an AI/ML developer
+-  Open to learning, collaboration, and internship opportunities
+
+Technical Skills
+
+- Programming: Python, SQL
+- AI/ML: Machine Learning, Deep Learning, NLP
+- Tools: Git, GitHub, VS Code
+
+Projects
+
+- Fake News Detection
+- Cyber Threat Intelligence Using NLP
+- DNA Sequence Analyzer
+
+Connect With Me
+
+- LinkedIn: "My LinkedIn Profile" (https://www.linkedin.com/in/disha-jain-169349319/)
+
+Thanks for visiting my profile! 
